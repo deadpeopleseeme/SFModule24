@@ -1,0 +1,13 @@
+E:\code\Module24\ClassLibrary1\bin\Debug\net8.0\ClassLibrary.deps.json
+E:\code\Module24\ClassLibrary1\bin\Debug\net8.0\ClassLibrary.dll
+E:\code\Module24\ClassLibrary1\bin\Debug\net8.0\ClassLibrary.pdb
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.csproj.AssemblyReference.cache
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.dll
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary.dll
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.pdb
+E:\code\Module24\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary.dll
