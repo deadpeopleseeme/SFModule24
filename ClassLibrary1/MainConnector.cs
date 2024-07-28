@@ -27,7 +27,7 @@ namespace ClassLibrary
         {
             if (connection.State == ConnectionState.Open)
             {
-                connection.Close();
+                await connection.CloseAsync();
             }
         }
     }
